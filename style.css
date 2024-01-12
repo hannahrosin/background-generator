@@ -1,0 +1,54 @@
+
+body {
+	font-family: calibri;
+	color: rgb(33, 32, 34, 1.0);
+	letter-spacing: 0.8em;
+	width: 100%;
+	text-transform: uppercase;
+	text-align: center;
+	background: linear-gradient(to right, greenyellow, lightpink);
+	cursor: default;
+	padding-bottom: 30em;
+}
+
+h1 {
+	font-size: 4em;
+	font-weight: lighter;
+}
+
+h2 {
+	font-size: 2em;
+	font-weight: lighter;
+}
+
+h3 {
+	font-size: 1.3em;
+	font-weight: lighter;
+	text-transform: lowercase;
+	letter-spacing: 0.4em;
+	padding-top: 1em;
+}
+
+
+
+input {
+	appearance: none;
+	border: none;
+	width: 8em;
+	height: 4em;
+	cursor: pointer;
+}
+
+
+p {
+	font-size: 1.3em;
+	font-weight: lighter;
+	text-transform: uppercase;
+	letter-spacing: 0.4em;
+	cursor: pointer;
+
+}
+
+
+
+
